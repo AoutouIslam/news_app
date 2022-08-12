@@ -85,7 +85,7 @@ class Article extends Equatable {
       author: 'author now',
       authorImageUrl:
           'https://images.unsplash.com/photo-1651607840003-17807ab4b4e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGFuJTIwYnJvd258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
-      category: 'sports',
+      category: 'Science',
       ImageUrl:
           'https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3cPe9GbBP9jQUUshxUXv65/a68377fc255c39b9b38fa614d6b5f0f8/ACH_Keyart_RGB.jpg',
       views: 2556,
