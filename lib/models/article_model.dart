@@ -77,18 +77,17 @@ class Article extends Equatable {
     ),
     Article(
       id: '50',
-      title:
-          'orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ind',
+      title: "Assassin's creed Origins : A hidden Gem ",
       SubTitle:
           " is a long established fact that a reader will be distracted by the readable content of a page ",
       body:
-          " is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometim",
+          "Assassin's Creed® Origins, qui se déroule dans la mystérieuse Égypte ancienne, constitue un nouveau commencement. Découvrez une nouvelle façon de vous battre tout en explorant les grandes pyramides et les tombeaux cachés de l'Égypte ancienne, rencontrez de nombreux personnages aux histoires mémorables au cours de votre périple, et découvrez l'histoire des origines de la Confrérie des Assassins.",
       author: 'author now',
       authorImageUrl:
           'https://images.unsplash.com/photo-1651607840003-17807ab4b4e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGFuJTIwYnJvd258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
       category: 'sports',
       ImageUrl:
-          'https://images.unsplash.com/photo-1651607840003-17807ab4b4e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGFuJTIwYnJvd258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
+          'https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3cPe9GbBP9jQUUshxUXv65/a68377fc255c39b9b38fa614d6b5f0f8/ACH_Keyart_RGB.jpg',
       views: 2556,
       created_at: DateTime.now().subtract(const Duration(hours: 265)),
     ),
